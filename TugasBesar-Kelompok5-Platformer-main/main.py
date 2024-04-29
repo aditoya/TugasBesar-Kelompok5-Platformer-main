@@ -1,4 +1,4 @@
-# TUGAS BESAR PBO
+# TUGAS BESAR PBO DL 6
 
 from settings import *
 
